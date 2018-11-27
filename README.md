@@ -5,4 +5,4 @@ A WebUI Demo (PyQt5)
   pip3 install pyqt5 -U
   
 # run
-  python3 webui.py
+  python3 ./webui.py
